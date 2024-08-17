@@ -4,6 +4,7 @@ st.set_page_config(page_title="Arii", page_icon=":slightly_smiling_face:", layou
 
 #header 
 st.subheader("hi I am Ariyan :wave:")
+st.write("contact me at:- ariyan.bose@proton.me")
 st.subheader("A Machine learning researcher from India")
 st.write("I thrive in experimentation and finding new tools and new ways to use software and hardware to try and make life better")
 st.write("[github](https://github.com/steamed-p0tato?tab=repositories)")
